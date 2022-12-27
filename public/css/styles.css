@@ -47,7 +47,7 @@ h2 {
   width: 100%;
   justify-content: center;
   padding: 2rem;
-  background-color: #fafafa;
+  background-color: #95b8d1;
 }
 
 .weatherLocation button{
@@ -64,7 +64,7 @@ h2 {
   height: 60%;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
-  background: #FAFAFA;
+  background: white;
   font-family: weathericons;
   display: flex;
   align-items: center;
@@ -77,11 +77,11 @@ h2 {
 .widget .weatherInfo {
   flex: 0 0 70%;
   height: 40%;
-  background: #080705;
+  background: #b8e0d2;
   border-bottom-left-radius: 20px;
   display: flex;
   align-items: center;
-  color: white;
+  color: black;
 }
 .widget .weatherInfo .temperature {
   flex: 0 0 40%;
@@ -109,12 +109,12 @@ h2 {
 .widget .date {
   flex: 0 0 30%;
   height: 40%;
-  background: rgb(68, 112, 207);
+  background: #eac4d5;
   border-bottom-right-radius: 20px;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  color: white;
+  color: black;
   font-size: 30px;
   font-weight: 800;
 }
